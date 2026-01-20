@@ -4,7 +4,7 @@
 		"description": "A conservative USDC vault collateralized by other vaults in the Euler Arbitrum cluster and escrow vaults.",
 		"entity": "euler-dao"
 	},
-	"0x37512F45B4ba8808910632323b73783Ca938CD51": {
+	"0x0a38641D4C37e10728C87384940e7A7912717793": {
 		"name": "USDC Vault",
 		"description": "A conservative USDT0 vault collateralized by other vaults in the Euler Arbitrum cluster and escrow vaults.",
 		"entity": "euler-dao"
