@@ -1,12 +1,13 @@
 {
-	"euler-testing": {
-		"name": "Euler Arbitrum",
-		"description": "A market tailored to facilitate common trades like blue chip lending, stablecoin borrowing, and LST/LRT looping. Governed by Euler DAO.",
-		"entity": ["euler-dao", "gauntlet"],
-		"url": "https://forum.euler.finance/t/creation-of-arbitrum-market/1501",
+	"maple-spark-3pool": {
+		"name": "Maple Spark 3pool",
+		"description": "3pool delta-neutral looping market with Maple & Spark",
+		"entity": [],
+		"url": "",
 		"vaults": [
-				"0xB523326C1CEd45d0eB3C75C083fED0bcb52ccDcE",
-			"0x0a38641D4C37e10728C87384940e7A7912717793"
+				"0xFD96d5aD752b08bBdCc9f2D67d3f53Ba0a9456A6",
+			"0x1F91563a7787b5a5B35A3D31E16616Ef0B7002f1",
+			"0xA27b88ee39fA45d1AFf6E96001517471B02ae24f"
 		]
 	}
 }
