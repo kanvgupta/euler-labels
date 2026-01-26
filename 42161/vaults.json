@@ -1,12 +1,17 @@
 {
-	"0xB523326C1CEd45d0eB3C75C083fED0bcb52ccDcE": {
-		"name": "Euler Testing ELITE",
-		"description": "A conservative USDC vault collateralized by other vaults in the Euler Arbitrum cluster and escrow vaults.",
-		"entity": "euler-dao"
+	"0xFD96d5aD752b08bBdCc9f2D67d3f53Ba0a9456A6": {
+		"name": "Maple Spark 3pool syrupUSDC",
+		"description": "3pool Ladder market for delta-neutrl looping.",
+		"entity": ""
 	},
-	"0x0a38641D4C37e10728C87384940e7A7912717793": {
-		"name": "USDC Vault",
-		"description": "A conservative USDT0 vault collateralized by other vaults in the Euler Arbitrum cluster and escrow vaults.",
-		"entity": "euler-dao"
+	"0x1F91563a7787b5a5B35A3D31E16616Ef0B7002f1": {
+		"name": "Maple Spark 3pool sUSDS",
+		"description": "3pool Ladder market for delta-neutrl looping.",
+		"entity": ""
+	},
+	"0xA27b88ee39fA45d1AFf6E96001517471B02ae24f": {
+		"name": "Maple Spark 3pool USDC",
+		"description": "3pool Ladder market for delta-neutrl looping.",
+		"entity": ""
 	}
 }
