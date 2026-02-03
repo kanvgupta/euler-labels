@@ -254,16 +254,16 @@
 			"twitter": "hyperithm"
 		}
 	},
-	"9summits": {
-		"name": "9 Summits",
-		"logo": "9summits.png",
-		"description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision.",
-		"url": "https://9summits.io/",
+	"demo-entity2": {
+		"name": "Demo Entity",
+		"logo": "euler.svg",
+		"description": "",
+		"url": "",
 		"addresses": {
-			"0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF": "9 Summits vault Admin Multisig"
+			"0x7A7fa5CF58ebaF5a585d9c0144F901155fEE5e85": "Governor"
 		},
 		"social": {
-			"twitter": "nine_summits"
+			"twitter": "euler"
 		}
 	},
 	"demo-entity": {
