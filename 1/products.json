@@ -2,7 +2,7 @@
 	"testing-market": {
 		"name": "Testing Market",
 		"description": "Testing these vaults",
-		"entity": ["euler-dao"],
+		"entity": ["demo-entity"],
 		"url": "",
 		"vaults": [
 			"0xdB6856e8478DB159c383a0c4b274E259AF83cB15",
